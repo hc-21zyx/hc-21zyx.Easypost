@@ -1,24 +1,9 @@
-# myspace
+# 项目简介
+````
+一个比较基础的直接用Vue写的基础前端项目(Vue-cli脚手架生成基础结构) 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+````
+# -----------------
+`````
+由于某种原因 暂时不能部署了 
+````
